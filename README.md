@@ -31,7 +31,7 @@ Run `npm install` to install all dependencies. To use the application locally, r
     * [Express](https://www.npmjs.com/package/express)
 
 ## Authors
-UCLAextension, GitHub Community, Angelo Rocky Dibello
+UCLA Extension, GitHub Community, Angelo Rocky Dibello
 * [Portfolio](https://dibello80.github.io/AngeloRockyDibello-Portfolio/)
 * [GitHub](https://github.com/Dibello80)
 * [LinkedIn](https://www.linkedin.com/in/angelodibello)
